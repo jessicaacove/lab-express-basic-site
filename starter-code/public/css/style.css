@@ -1,0 +1,115 @@
+
+
+body {
+  margin:0;
+  font-family: 'Baskerville';
+  font-weight: 300;
+  overflow-x: hidden;
+  background-color: white;
+  color: brown;
+}
+
+.container {
+  text-align: justify;
+  margin:20px 80px;
+}
+
+h1, h2 {
+  letter-spacing: 2px;
+}
+
+header {
+  height:80px;
+  line-height: 80px;
+  border-bottom: 1px solid black;
+  overflow:hidden;
+  width:100%;
+  background:#fff;
+}
+
+header h1 {
+  float:left;
+  margin:0;
+  margin-left:80px;
+}
+
+nav {
+  float:right;
+  margin-right:80px;
+}
+
+nav a {
+  margin-left:20px;
+  text-decoration: none;
+  color:#000;
+}
+
+/*.overflowdiv {
+  position: absolute;
+  top: 0px;
+  right: 10px;
+  overflow: hidden;
+  width: 55px;
+}*/
+
+.littlepotatodiv {
+  width: 70px;
+  overflow: hidden;
+  height: 80px;
+  position: absolute;
+  top: 0px;
+  right: 10px;
+}
+
+.potatodance {
+  width: 100px;
+  right: 10px;
+  position: relative;
+}
+
+.container {
+  position: relative;
+  height: 80vh;
+  margin-top:
+}
+
+.factbox {
+  width: 70%;
+  border: 1px solid orange;
+  border-radius: 10px;
+  padding: 10px;
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  right: 0;
+  left: 0;
+  margin: auto;
+  height: 60vh;
+}
+
+.facttext {
+  color: brown;
+  border-radius: 10px;
+  padding: 10px;
+  height: auto;
+}
+
+h4 {
+  background-color: brown;
+  color: white;
+  position: block;
+}
+
+li {
+  list-style: none;
+}
+
+.girlcontainer {
+  text-align: center;
+}
+
+.potatogirlimage {
+  border-radius: 10000px;
+  margin-top: 40px;
+
+}
